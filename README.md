@@ -1,0 +1,2 @@
+# concorrenciaforte
+concorrencia forte
